@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, JAVASCRIPT**
 
-- ⚡ Fun fact **I am Funny, Jovial, Gamer, Reader, Loves Football.**
+- ⚡ Fun fact**, I am Funny, Jovial, Gamer, Reader, Loves Football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
