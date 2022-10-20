@@ -1,7 +1,6 @@
-[![MasterHead][https://dribbble.com/shots/15628402-Working-on-a-Project]
+
 <h1 align="center">Hi 👋, I'm Awazie Anna Amarachi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" scr="https://uploads.toptal.io/blog/image/91861/toptal-blog-image-1450007179692-eee769f5a44927c092ad7dfd13a6d7e6.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiireex&label=Profile%20views&color=0e75b6&style=flat" alt="amiireex" /> </p>
