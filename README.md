@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Awazie Anna Amarachi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
